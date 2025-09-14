@@ -4,3 +4,6 @@ autopep8
 
 # App
 flask
+google-generativeai
+python-dotenv
+Pillow
